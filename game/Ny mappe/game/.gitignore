@@ -1,0 +1,16 @@
+#######################
+#unreal genrated files#
+#######################
+*/build
+*/binaries
+*/deriveddatacache
+*/Intermediate
+*/saved
+Content/StarterContent/
+Intermediate/
+
+#######################
+# VS genrated files   #
+#######################
+
+*.VC.db
